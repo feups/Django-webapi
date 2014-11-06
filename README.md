@@ -1,2 +1,2 @@
-Django-webapi
+A Sample Django-Webapi+UserTokenAuthentication
 =============
