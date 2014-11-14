@@ -7,7 +7,7 @@ Create and switch to the project directory.
 Clone the Git repository.
 #git clone https://github.com/feups/Django-webapi.git .
 Create the virtualenv
-#virtualenv ./_virtualenv
+#virtualenv ./env
 Activate the virtualenv.
 #source env/bin/activate
 install this packages
